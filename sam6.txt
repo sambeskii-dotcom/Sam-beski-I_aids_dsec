@@ -1,0 +1,16 @@
+public class Main {
+    public static void main(String[] args) {
+
+        String name = "Mani";
+        int age = 20;
+        float mark = 85.5f;
+        char grade = 'A';
+        boolean placementStatus = true;
+
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Mark: " + mark);
+        System.out.println("Grade: " + grade);
+        System.out.println("Placement Status: " + placementStatus);
+    }
+}
