@@ -1,0 +1,14 @@
+
+public class Student {
+    public static void main(String[] args) {
+        String name = "Mani";
+        int age = 20;
+        char grade = 'A';
+        boolean placementStatus = true;
+
+        System.out.println("Student Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Grade: " + grade);
+        System.out.println("Placement Status: " + placementStatus);
+    }
+}
