@@ -1,0 +1,8 @@
+
+public class College {
+    public static void main(String[] args) {
+        System.out.println("College Name: ABC College");
+        System.out.println("Department: Computer Science");
+        System.out.println("Course: B.Sc Computer Science");
+    }
+}
